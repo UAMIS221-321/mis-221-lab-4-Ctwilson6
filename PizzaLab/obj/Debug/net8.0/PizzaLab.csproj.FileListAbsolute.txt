@@ -1,0 +1,14 @@
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\bin\Debug\net8.0\PizzaLab.exe
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\bin\Debug\net8.0\PizzaLab.deps.json
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\bin\Debug\net8.0\PizzaLab.runtimeconfig.json
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\bin\Debug\net8.0\PizzaLab.dll
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\bin\Debug\net8.0\PizzaLab.pdb
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\obj\Debug\net8.0\PizzaLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\obj\Debug\net8.0\PizzaLab.AssemblyInfoInputs.cache
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\obj\Debug\net8.0\PizzaLab.AssemblyInfo.cs
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\obj\Debug\net8.0\PizzaLab.csproj.CoreCompileInputs.cache
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\obj\Debug\net8.0\PizzaLab.dll
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\obj\Debug\net8.0\refint\PizzaLab.dll
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\obj\Debug\net8.0\PizzaLab.pdb
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\obj\Debug\net8.0\PizzaLab.genruntimeconfig.cache
+C:\Users\crims\OneDrive\Documents\repos\PizzaLab\PizzaLab\obj\Debug\net8.0\ref\PizzaLab.dll
